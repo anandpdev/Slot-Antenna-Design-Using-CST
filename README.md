@@ -67,3 +67,17 @@ The antenna was designed using an FR4 substrate and simulated using CST Studio S
 - **Course:** Antenna Design Using EM Simulator
 - **Simulation Software:** CST Studio Suite
 - **Target Applications:** Wi-Fi and Bluetooth (2.4 GHz ISM Band)
+
+## CST Simulation Results
+
+### 1. Antenna Geometry
+![Antenna Geometry](Screenshots/Picture1.png)
+
+### 2. S11 Response
+![S11 Response](Screenshots/Picture2.png)
+
+### 3. Surface Current Distribution
+![Surface Current](Screenshots/Picture3.png)
+
+### 4. 3D Radiation Pattern
+![3D Radiation Pattern](Screenshots/Picture4.png)
