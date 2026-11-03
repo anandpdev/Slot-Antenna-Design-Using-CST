@@ -70,14 +70,14 @@ The antenna was designed using an FR4 substrate and simulated using CST Studio S
 
 ## CST Simulation Results
 
-### 1. Antenna Geometry
-![Antenna Geometry](Screenshots/Picture1.png)
+### 1. S11 Response
+![S11 Response](Screenshots/Picture1.png)
 
-### 2. S11 Response
-![S11 Response](Screenshots/Picture2.png)
+### 2. Surface Current Distribution
+![Surface Current Distribution](Screenshots/Picture2.png)
 
-### 3. Surface Current Distribution
-![Surface Current](Screenshots/Picture3.png)
+### 3. 3D Far-Field Radiation Pattern
+![3D Radiation Pattern](Screenshots/Picture3.png)
 
-### 4. 3D Radiation Pattern
-![3D Radiation Pattern](Screenshots/Picture4.png)
+### 4. 1D Far-Field Radiation Pattern
+![1D Radiation Pattern](Screenshots/Picture4.png)
